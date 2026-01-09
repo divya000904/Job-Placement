@@ -1,0 +1,1 @@
+The dataset includes details like education, skills, experience, and interview scores. First, the data was cleaned by removing duplicates and handling missing values. Then basic data analysis was done to understand the data. A machine learning model was trained to predict the job acceptance status.
